@@ -27,6 +27,10 @@ Install the specific versions used in development:
 
 ## Excel Output
 The final Recapitulatif_Devis25.xlsx provides a structured view:
+| poisson |
+| --- |
+| test |
+
 |Nom fichier|Code Affaire	|Nom Client	|Prestation	| Prestation nom complet |
 Nombre d'unitée	|Surface (m2/ml)	|Prix Unité	|Prix prestation|
 |---|---|---|---|---|---|---|---|---|
