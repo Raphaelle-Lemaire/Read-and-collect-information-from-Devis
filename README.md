@@ -27,15 +27,10 @@ Install the specific versions used in development:
 
 ## Excel Output
 The final Recapitulatif_Devis25.xlsx provides a structured view:
-| poisson |
-| --- |
-| test |
 
-|Nom fichier|Code Affaire	|Nom Client	|Prestation	| Prestation nom complet |
-Nombre d'unitée	|Surface (m2/ml)	|Prix Unité	|Prix prestation|
-|---|---|---|---|---|---|---|---|---|
-|Devis annuels 2024 acceptés/pdf/12345 EVA12345.png
-|EVA12345	|MAIRIE |	Taille de haies	|1	|150m2	|45.00	|45.00
+| Nom fichier | Code Affaire | Nom Client | Prestation | Prestation nom complet | Nombre d'unitée	| Surface (m2/ml) | Prix Unité | Prix prestation |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Devis annuels 2024 acceptés/pdf/12345 EVA12345.png | EVA12345	| MAIRIE |	Taille de haies	| 1	| 150m2	| 45.00	| 45.00
 
 
 ## State of the Art
